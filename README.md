@@ -6,4 +6,4 @@
 If you want to use executables just download right one for your os and run.
 
 ### Node files
-If you have want to use js files clone to your disk and run ``npm install`` once and start it with ``node .`` or ``npm start``
+If you want to use js files clone to your disk and run ``npm install`` once and start it with ``node .`` or ``npm start``
