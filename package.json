@@ -18,7 +18,6 @@
   "homepage": "https://github.com/jdjdpsjsjdlsk/Discord-activedev-badge#readme",
   "description": "",
   "dependencies": {
-    "discord.js": "^14.7.1",
-    "pkg": "^5.8.0"
+    "discord.js": "^14.7.1"
   }
 }
