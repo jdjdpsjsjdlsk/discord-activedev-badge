@@ -1,9 +1,16 @@
 {
   "name": "discord-activedev-badge",
+  "bin": "app.js",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
+  },
+  "pkg": {
+    "assets": [
+      "badgecmd.js"
+    ],
+    "output": "out"
   },
   "keywords": [],
   "author": "malte",
