@@ -1,0 +1,20 @@
+{
+  "name": "discord-activedev-badge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "malte",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdjdpsjsjdlsk/Discord-activedev-badge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdjdpsjsjdlsk/Discord-activedev-badge/issues"
+  },
+  "homepage": "https://github.com/jdjdpsjsjdlsk/Discord-activedev-badge#readme",
+  "description": ""
+}
